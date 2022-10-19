@@ -1,2 +1,2 @@
 # calculator-in-csharp
-Meu primeiro programa em c#, depois de três 3 anos sem ter contacto com o c#
+Aprendendo c# com Balta.io, desenvolvendo minha primeira aplicação calculadora.
